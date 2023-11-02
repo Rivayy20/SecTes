@@ -21,7 +21,7 @@ if(isset($_POST['bsimpan'])){
       <!--Head-->
       <div class="head text-center">
         <img src="assets/img/smk.png" width="235" />
-        <h2 class="text-white">Data Pengunjung Perpustakaan SMKN 2 Magelang</h2>
+        <h2 class="text-white">Data Pengunjung Perpustakaan</h2>
       </div>
       <!--End Head-->
 
